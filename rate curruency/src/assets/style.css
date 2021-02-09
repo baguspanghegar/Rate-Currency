@@ -1,0 +1,35 @@
+@import '~antd/dist/antd.css';
+.site-layout-content {
+  background: #fff;
+  padding: 24px;
+  min-height: 500px;
+}
+
+/* -- custom -- */
+.layout{
+  background: orangered;
+}
+
+.section-container{
+  display: flex;
+  padding: 20px;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.big-bold-blue{
+  color:#000053;
+  font-size: 10vh;
+  font-weight: bold;
+}
+
+.small-blue{
+  color:#000042;
+  font-size: 4vh;
+}
+
+.center{
+  width: 100%;
+	text-align: center;
+}
